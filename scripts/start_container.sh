@@ -5,6 +5,6 @@ set -e
 docker pull harsha9119/simple-python-app:latest
 
 # Run the Docker image as a container
-docker run -d -p 5000:5000 harsha9119/simple-python-app
+docker run -d -p 5001:5000 harsha9119/simple-python-app
 
 
